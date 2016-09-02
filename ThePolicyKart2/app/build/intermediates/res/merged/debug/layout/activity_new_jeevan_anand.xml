@@ -1,0 +1,80 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".Akshay_VI"
+    android:background="#ffffff" >
+    <ScrollView 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:fillViewport="false"
+        android:orientation="vertical"
+        android:padding="0dp" android:id="@+id/scrollView1">
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="416dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="LIC NEW JEEVAN ANAND PLAN"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#b30000"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+
+       <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="20dp"
+        android:textSize="15dp"
+        android:text="New Jeevan Anand (Table 815) provides insurance cover for entire life of the insured person.\nIn this plan, Sum assured with accured bonus and Final Additional Bonus will be paid back at the end of the policy term. But the policy will continue till the death of the life insured or they complete 100 yrs of age, whichever occurs earlier.\nIf the insured person survives till his 100th age, a sum assured will be provided to him at the end of his 100th age.\nIf the insured person expires before the completion of his 100th age, a Sum assured will be paid to the nominee. So it provides a risk coverage throughout the life of the insured person.\nAn Accidental Death Benefit rider is available with payment of Rs.100/- per 1 Lakh sum assured per year. This is an optional rider, which if opted, twice the sum assured will be paid to the nominee in case of any accidental death.\nService Tax is applicable on the premium paid for this policy, at the rate of 3.625% for the 1st year premium and 1.81% from 2nd year onwards.\n\nFeatures of LIC New Jeevan Anand :\n\n
+ • Its an Endowment plan with lifetime risk coverage and High bonus. \n 
+ • Maturity benefit is Basic Sum assured with Bonus. But the policy continues till death of life insured. On the death of life insured or on the completion of 100th age, a Sum assured will be paid again. \n 
+ • Accidental Death Benefit is available with this policy on some additional cost.\n 
+ • This plan can be provided to people with hazardous occupation with some additional premium. \n 
+ • An optional Critical Illness Rider can be availed with some extra cost.\n\nLIC New Jeevan Anand Eligibility Conditions :
+        "/>
+       <ImageView 
+           android:id="@+id/jeevan"
+           android:layout_width="fill_parent"
+           android:layout_height="wrap_content"
+           
+           android:src="@drawable/jeevananand"
+           
+           />
+      <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="20dp"
+        android:textSize="15dp"
+        android:text="Benefits of LIC New Jeevan Anand :\n\nMaturity Return : Basic Sum Assured with Vested simple reversionary Bonus and Final Additional Bonus (if any) will be given on Policy maturity.Life cover continues till death.\n\nDeath Benefit : On the death of the life insured before policy maturity, Sum Assured on Death ( 125% of SA or 10 times Annual Premium whichever is higher) with Bonus and Final Additional Bonus (if any) will be paid. On death after policy maturity, Sum assured will be paid.\n\nIncome Tax Benefit : Available under Section 80 C for premiums paid and Section 10 (10D) for Maturity returns.\n\nLoan on Policy : Available after payment of 3 full year premium.\n\nHousing Loan Surity : Available "/>
+       
+        
+        <Button
+            android:id="@+id/apply_jeevan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:text="APPLY NOW" />
+        </LinearLayout></ScrollView>
+
+
+</RelativeLayout>

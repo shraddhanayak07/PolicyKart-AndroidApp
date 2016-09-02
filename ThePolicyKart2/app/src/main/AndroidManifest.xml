@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.thepolicykart2"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="17" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.GET_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.USE_CREDENTIALS"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+
+        android:name="MyApplication"
+        android:label="@string/app_name"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:theme="@style/AppBaseTheme"
+
+        android:clearTaskOnLaunch="true"
+        android:launchMode="singleTask">
+        <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/facebook_app_id"/>
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+        <activity
+            android:name="com.example.thepolicykart2.MainActivity"
+            android:label="@string/app_name"
+            android:noHistory="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.thepolicykart2.Login"
+            android:label="Login"
+            android:noHistory="true">
+           <!-- android:windowSoftInputMode="adjustResize|stateVisible"-->
+        </activity>
+        <activity
+            android:name="com.example.thepolicykart2.Registration"
+            android:label="@string/title_activity_registration" >
+        </activity>
+        <activity
+            android:name="com.example.thepolicykart2.MyAccounts"
+            android:label="MyAccounts" >
+        </activity>
+        <activity
+            android:name="com.example.thepolicykart2.forgotpassword"
+            android:label="forgot_password" >
+        </activity>
+        <activity
+            android:name="com.example.thepolicykart2.changepassword"
+            android:label="change_password" >
+        </activity>
+        <activity android:name=".framelayout"
+            android:label="frame">
+        </activity>
+        <activity
+            android:name="com.example.thepolicykart2.Home"
+            android:label="@string/title_activity_home" >
+        </activity>
+        <activity
+            android:name="com.example.thepolicykart2.UserProfileDetails"
+            android:label="userprofile"
+            >
+        </activity>
+        <activity
+            android:name="com.example.thepolicykart2.GooglePlus"
+            android:label="googleplus" >
+        </activity>
+        <service
+            android:name=".MyTestService"
+            android:exported="false"/>
+        <fragment
+            android:name="com.example.thepolicykart2.MainFragment"
+            android:label="mainfragment">
+        </fragment>
+        <fragment
+            android:name="com.example.thepolicykart2.Plans"
+            android:label="@string/title_activity_plans" >
+        </fragment>
+        <fragment
+            android:name="com.example.thepolicykart2.Query_Now"
+            android:label="@string/title_activity_query__now" ></fragment>
+        <activity
+            android:name="com.example.thepolicykart2.Apply_online"
+            android:label="@string/title_activity_apply_online" >
+        </activity>
+
+        <fragment
+            android:name="com.example.thepolicykart2.Calculator"
+            android:label="@string/title_activity_calculator" >
+        </fragment>
+        <fragment
+            android:name="com.example.thepolicykart2.Profile"
+            android:label="@string/title_activity_profile" >
+        </fragment>
+        <activity
+            android:name="com.example.thepolicykart2.Investemnt_plan"
+            android:label="INVESTMENT PLAN" >
+        </activity>
+        <activity
+            android:name="com.example.thepolicykart2.Moneyback_plan"
+            android:label="MONEY BACK PLAN" >
+        </activity>
+        <activity
+            android:name="com.example.thepolicykart2.Child_plan"
+            android:label="CHILD PLAN" >
+        </activity>
+        <activity
+            android:name="com.example.thepolicykart2.Pension_plan"
+            android:label="PENSION PLAN" >
+        </activity>
+        <activity
+            android:name="com.example.thepolicykart2.Term_plan"
+            android:label="TERM PLAN" >
+        </activity>
+        <fragment
+            android:name="com.example.thepolicykart2.New_money_back"
+            android:label="@string/title_activity_new_money_back" >
+        </fragment>
+        <fragment
+            android:name="com.example.thepolicykart2.Bima_bachat"
+            android:label="@string/title_activity_bima_bachat" >
+        </fragment>
+        <fragment
+            android:name="com.example.thepolicykart2.Jeevan_nidhi"
+            android:label="@string/title_activity_jeevan_nidhi" >
+        </fragment>
+        <fragment
+            android:name="com.example.thepolicykart2.Akshay_VI"
+            android:label="@string/title_activity_akshay__vi" >
+        </fragment>
+        <fragment
+            android:name="com.example.thepolicykart2.Amolya_jeevan"
+            android:label="@string/title_activity_amolya_jeevan" >
+        </fragment>
+        <fragment
+            android:name="com.example.thepolicykart2.Anmol_jeevan"
+            android:label="@string/title_activity_anmol_jeevan" >
+        </fragment>
+        <fragment
+            android:name="com.example.thepolicykart2.New_child_money"
+            android:label="@string/title_activity_new_child_money" >
+        </fragment>
+        <fragment
+            android:name="com.example.thepolicykart2.Jeevan_tarun"
+            android:label="@string/title_activity_jeevan_tarun" >
+        </fragment>
+        <fragment
+            android:name="com.example.thepolicykart2.New_jeevan_anand"
+            android:label="@string/title_activity_new_jeevan_anand" >
+        </fragment>
+        <fragment
+            android:name="com.example.thepolicykart2.New_endowment"
+            android:label="@string/title_activity_new_endowment" >
+        </fragment>
+        <fragment
+            android:name="com.example.thepolicykart2.Jeevan_lakshay"
+            android:label="@string/title_activity_jeevan_lakshay" >
+        </fragment>
+        <fragment
+            android:name="com.example.thepolicykart2.Jeevan_arogya"
+            android:label="@string/title_activity_jeevan_arogya" >
+        </fragment>
+        <fragment
+            android:name="com.example.thepolicykart2.Single_endowment"
+            android:label="@string/title_activity_single_endowment" >
+        </fragment>
+        <fragment
+            android:name="com.example.thepolicykart2.Jeevan_labh"
+            android:label="@string/title_activity_jeevan_labh" >
+        </fragment>
+        <fragment
+            android:name="com.example.thepolicykart2.Jeevan_pragati"
+            android:label="@string/title_activity_jeevan_pragati" >
+        </fragment>
+
+        <activity android:name="com.facebook.FacebookActivity"
+            android:configChanges=
+                "keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:label="@string/app_name" />
+    </application>
+
+</manifest>

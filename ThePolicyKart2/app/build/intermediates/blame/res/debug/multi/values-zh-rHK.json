@@ -1,0 +1,1223 @@
+[
+    {
+        "outputFile": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/values-zh-rHK/values-zh-rHK.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 94,
+                    "endOffset": 195
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rHK/values-zh-rHK.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endColumn": 94,
+                        "endOffset": 374
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 200,
+                    "endColumn": 106,
+                    "endOffset": 302
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rHK/values-zh-rHK.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 379,
+                        "endColumn": 106,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 307,
+                    "endColumn": 122,
+                    "endOffset": 425
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rHK/values-zh-rHK.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 486,
+                        "endColumn": 122,
+                        "endOffset": 604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 430,
+                    "endColumn": 92,
+                    "endOffset": 518
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rHK/values-zh-rHK.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 609,
+                        "endColumn": 92,
+                        "endOffset": 697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 523,
+                    "endColumn": 99,
+                    "endOffset": 618
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rHK/values-zh-rHK.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 702,
+                        "endColumn": 99,
+                        "endOffset": 797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 623,
+                    "endColumn": 81,
+                    "endOffset": 700
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rHK/values-zh-rHK.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 802,
+                        "endColumn": 81,
+                        "endOffset": 879
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 705,
+                    "endColumn": 96,
+                    "endOffset": 797
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rHK/values-zh-rHK.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 884,
+                        "endColumn": 96,
+                        "endOffset": 976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 802,
+                    "endColumn": 107,
+                    "endOffset": 905
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rHK/values-zh-rHK.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 981,
+                        "endColumn": 107,
+                        "endOffset": 1084
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 910,
+                    "endColumn": 77,
+                    "endOffset": 983
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rHK/values-zh-rHK.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1089,
+                        "endColumn": 77,
+                        "endOffset": 1162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 988,
+                    "endColumn": 95,
+                    "endOffset": 1079
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rHK/values-zh-rHK.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1167,
+                        "endColumn": 95,
+                        "endOffset": 1258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1084,
+                    "endColumn": 95,
+                    "endOffset": 1175
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rHK/values-zh-rHK.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1263,
+                        "endColumn": 95,
+                        "endOffset": 1354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1180,
+                    "endColumn": 94,
+                    "endOffset": 1270
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rHK/values-zh-rHK.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1359,
+                        "endColumn": 94,
+                        "endOffset": 1449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1275,
+                    "endColumn": 96,
+                    "endOffset": 1367
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rHK/values-zh-rHK.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1454,
+                        "endColumn": 96,
+                        "endOffset": 1546
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1372,
+                    "endColumn": 94,
+                    "endOffset": 1462
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rHK/values-zh-rHK.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1551,
+                        "endColumn": 94,
+                        "endOffset": 1641
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1467,
+                    "endColumn": 97,
+                    "endOffset": 1560
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rHK/values-zh-rHK.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1646,
+                        "endColumn": 97,
+                        "endOffset": 1739
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1565,
+                    "endColumn": 112,
+                    "endOffset": 1673
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rHK/values-zh-rHK.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1744,
+                        "endColumn": 112,
+                        "endOffset": 1852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1678,
+                    "endColumn": 93,
+                    "endOffset": 1767
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rHK/values-zh-rHK.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1857,
+                        "endColumn": 93,
+                        "endOffset": 1946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1772,
+                    "endColumn": 84,
+                    "endOffset": 1852
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/values-zh-rHK/values-zh-rHK.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endColumn": 84,
+                        "endOffset": 254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1857,
+                    "endColumn": 99,
+                    "endOffset": 1952
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/values-zh-rHK/values-zh-rHK.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 259,
+                        "endColumn": 99,
+                        "endOffset": 354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1957,
+                    "endColumn": 91,
+                    "endOffset": 2044
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/values-zh-rHK/values-zh-rHK.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 359,
+                        "endColumn": 91,
+                        "endOffset": 446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2049,
+                    "endColumn": 62,
+                    "endOffset": 2107
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/values-zh-rHK/values-zh-rHK.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 451,
+                        "endColumn": 62,
+                        "endOffset": 509
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2112,
+                    "endColumn": 65,
+                    "endOffset": 2173
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/values-zh-rHK/values-zh-rHK.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 514,
+                        "endColumn": 65,
+                        "endOffset": 575
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2178,
+                    "endColumn": 53,
+                    "endOffset": 2227
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/values-zh-rHK/values-zh-rHK.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 580,
+                        "endColumn": 53,
+                        "endOffset": 629
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2232,
+                    "endColumn": 67,
+                    "endOffset": 2295
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/values-zh-rHK/values-zh-rHK.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 634,
+                        "endColumn": 67,
+                        "endOffset": 697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2300,
+                    "endColumn": 67,
+                    "endOffset": 2363
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/values-zh-rHK/values-zh-rHK.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 702,
+                        "endColumn": 67,
+                        "endOffset": 765
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2368,
+                    "endColumn": 84,
+                    "endOffset": 2448
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/values-zh-rHK/values-zh-rHK.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 770,
+                        "endColumn": 84,
+                        "endOffset": 850
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2453,
+                    "endColumn": 68,
+                    "endOffset": 2517
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/values-zh-rHK/values-zh-rHK.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 855,
+                        "endColumn": 68,
+                        "endOffset": 919
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2522,
+                    "endColumn": 68,
+                    "endOffset": 2586
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/values-zh-rHK/values-zh-rHK.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 924,
+                        "endColumn": 68,
+                        "endOffset": 988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2591,
+                    "endColumn": 76,
+                    "endOffset": 2663
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/values-zh-rHK/values-zh-rHK.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 993,
+                        "endColumn": 76,
+                        "endOffset": 1065
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2668,
+                    "endColumn": 90,
+                    "endOffset": 2754
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/values-zh-rHK/values-zh-rHK.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1070,
+                        "endColumn": 90,
+                        "endOffset": 1156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2759,
+                    "endColumn": 60,
+                    "endOffset": 2815
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/values-zh-rHK/values-zh-rHK.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1161,
+                        "endColumn": 60,
+                        "endOffset": 1217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2820,
+                    "endColumn": 61,
+                    "endOffset": 2877
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/values-zh-rHK/values-zh-rHK.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1222,
+                        "endColumn": 61,
+                        "endOffset": 1279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2882,
+                    "endColumn": 85,
+                    "endOffset": 2963
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/values-zh-rHK/values-zh-rHK.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1284,
+                        "endColumn": 85,
+                        "endOffset": 1365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2968,
+                    "endColumn": 184,
+                    "endOffset": 3148
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rHK/base_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2973,
+                        "endColumn": 188,
+                        "endOffset": 3157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3153,
+                    "endColumn": 117,
+                    "endOffset": 3266
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rHK/base_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1166,
+                        "endColumn": 117,
+                        "endOffset": 1279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3271,
+                    "endColumn": 159,
+                    "endOffset": 3426
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rHK/base_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1002,
+                        "endColumn": 163,
+                        "endOffset": 1161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3431,
+                    "endColumn": 116,
+                    "endOffset": 3543
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rHK/base_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 885,
+                        "endColumn": 116,
+                        "endOffset": 997
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3548,
+                    "endColumn": 118,
+                    "endOffset": 3662
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rHK/base_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 766,
+                        "endColumn": 118,
+                        "endOffset": 880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3667,
+                    "endColumn": 171,
+                    "endOffset": 3834
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rHK/base_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 411,
+                        "endColumn": 175,
+                        "endOffset": 582
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3839,
+                    "endColumn": 174,
+                    "endOffset": 4009
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rHK/base_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 587,
+                        "endColumn": 178,
+                        "endOffset": 761
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4014,
+                    "endColumn": 117,
+                    "endOffset": 4127
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rHK/base_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 293,
+                        "endColumn": 117,
+                        "endOffset": 406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4132,
+                    "endColumn": 127,
+                    "endOffset": 4255
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rHK/base_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2351,
+                        "endColumn": 127,
+                        "endOffset": 2474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4260,
+                    "endColumn": 109,
+                    "endOffset": 4365
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rHK/base_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2241,
+                        "endColumn": 109,
+                        "endOffset": 2346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4370,
+                    "endColumn": 135,
+                    "endOffset": 4501
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rHK/base_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2105,
+                        "endColumn": 135,
+                        "endOffset": 2236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4506,
+                    "endColumn": 110,
+                    "endOffset": 4612
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rHK/base_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1994,
+                        "endColumn": 110,
+                        "endOffset": 2100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 4617,
+                    "endColumn": 122,
+                    "endOffset": 4735
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rHK/base_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 122,
+                        "endOffset": 288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 4740,
+                    "endColumn": 127,
+                    "endOffset": 4863
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rHK/base_strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 3519,
+                        "endColumn": 127,
+                        "endOffset": 3642
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4868,
+                    "endColumn": 119,
+                    "endOffset": 4983
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rHK/base_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 3399,
+                        "endColumn": 119,
+                        "endOffset": 3514
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 4988,
+                    "endColumn": 124,
+                    "endOffset": 5108
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rHK/base_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3274,
+                        "endColumn": 124,
+                        "endOffset": 3394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 5113,
+                    "endColumn": 111,
+                    "endOffset": 5220
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rHK/base_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3162,
+                        "endColumn": 111,
+                        "endOffset": 3269
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 5225,
+                    "endColumn": 177,
+                    "endOffset": 5398
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/res/values-zh-rHK/common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 181,
+                        "endOffset": 347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 5403,
+                    "endColumn": 184,
+                    "endOffset": 5583
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rHK/base_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2597,
+                        "endColumn": 188,
+                        "endOffset": 2781
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 5588,
+                    "endColumn": 117,
+                    "endOffset": 5701
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rHK/base_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2479,
+                        "endColumn": 117,
+                        "endOffset": 2592
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 5706,
+                    "endColumn": 102,
+                    "endOffset": 5804
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rHK/base_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2786,
+                        "endColumn": 102,
+                        "endOffset": 2884
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 5809,
+                    "endColumn": 159,
+                    "endOffset": 5964
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rHK/base_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1401,
+                        "endColumn": 163,
+                        "endOffset": 1560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 5969,
+                    "endColumn": 116,
+                    "endOffset": 6081
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rHK/base_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1284,
+                        "endColumn": 116,
+                        "endOffset": 1396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 6086,
+                    "endColumn": 165,
+                    "endOffset": 6247
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rHK/base_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1824,
+                        "endColumn": 169,
+                        "endOffset": 1989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 6252,
+                    "endColumn": 120,
+                    "endOffset": 6368
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rHK/base_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1703,
+                        "endColumn": 120,
+                        "endOffset": 1819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 6373,
+                    "endColumn": 137,
+                    "endOffset": 6506
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rHK/base_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1565,
+                        "endColumn": 137,
+                        "endOffset": 1698
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 6511,
+                    "endColumn": 83,
+                    "endOffset": 6590
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rHK/base_strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2889,
+                        "endColumn": 83,
+                        "endOffset": 2968
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 6595,
+                    "endColumn": 86,
+                    "endOffset": 6677
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rHK/base_strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 3647,
+                        "endColumn": 86,
+                        "endOffset": 3729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 6682,
+                    "endColumn": 101,
+                    "endOffset": 6779
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rHK/base_strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 3734,
+                        "endColumn": 101,
+                        "endOffset": 3831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 6784,
+                    "endColumn": 57,
+                    "endOffset": 6837
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/values-zh-rHK/values-zh-rHK.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1506,
+                        "endColumn": 57,
+                        "endOffset": 1559
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 6842,
+                    "endColumn": 101,
+                    "endOffset": 6939
+                },
+                "from": {
+                    "file": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rHK/values-zh-rHK.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1951,
+                        "endColumn": 101,
+                        "endOffset": 2048
+                    }
+                }
+            }
+        ]
+    }
+]

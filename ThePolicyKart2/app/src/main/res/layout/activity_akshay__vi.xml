@@ -1,0 +1,56 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".Akshay_VI"
+    android:background="#ffffff" >
+    <ScrollView 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:fillViewport="false"
+        android:orientation="vertical"
+        android:padding="0dp" android:id="@+id/scrollView1">
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="416dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="LIC JEEVAN AKSHAY VI"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#b30000"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+       <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="10dp"
+        android:textSize="15dp"
+        android:text="LIC Jeevan Akshay VI (Table 189) is an immediate annuity plan that can be bought by paying a lumpsum as Single Premium. Pension will start immediately after buying the policy. There are 6 pension options available to choose. But once choosen, it cant be changed.\n\nThe below 6 pension options are available:\n\n• Annuity for Life- where pension is paid till the life assured is alive and nothing is payable on death. \n• Annuity Guaranteed for Certain Periods- where pension is definitely paid for 5/10/15 or 20 years as chosen whether the life assured is alive or not and is paid as long as annuitant is alive. \n• Annuity with Return of Purchase Price on Death- pension is paid till the life assured is alive and the remaining amount of the corpus is paid to the nominee as death benefit. \n• Increasing Annuity- pension is paid till the life assured is alive at an increasing rate of 3% p.a. \n• Joint Life Last Survivor Annuity 50% of the annuity payable to spouse during his/her lifetime on death of the annuitant. \n• Joint Life Last Survivor Annuity 100% of the annuity payable to spouse during his/her lifetime on death of the annuitant. \n" />
+        
+        
+        <Button
+            android:id="@+id/apply_akshay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:text="APPLY NOW" />
+        </LinearLayout></ScrollView>
+
+
+</RelativeLayout>

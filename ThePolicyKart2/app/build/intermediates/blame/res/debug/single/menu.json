@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/menu/home.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/res/menu/home.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/menu/login.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/res/menu/login.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/menu/registration.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/res/menu/registration.xml"
+    }
+]

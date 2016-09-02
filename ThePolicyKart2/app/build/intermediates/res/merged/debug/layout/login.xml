@@ -1,0 +1,148 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scrollView1"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/a">
+
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        
+         android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:src="@drawable/b" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/reg"
+        android:id="@+id/linearLayout2">
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:orientation="vertical"
+        android:id="@+id/linearLayout">
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/submit"
+            android:layout_width="190dp"
+            android:layout_height="38dp"
+            android:layout_marginBottom="22dp"
+            android:background="#13b586"
+            android:text="SUBMIT"
+            android:textColor="#fff"
+            android:textSize="13dp" />
+
+       <Button
+            android:id="@+id/loginwithfacebook"
+            android:layout_width="190dp"
+            android:layout_height="38dp"
+            android:layout_marginBottom="16dp"
+            android:background="#2683c2"
+            android:text="LOGIN WITH FACEBOOK"
+            android:textColor="#fff"
+            android:textSize="13dp" />
+
+        <Button
+
+            android:id="@+id/loginwithgoogle"
+            android:layout_width="190dp"
+            android:layout_height="38dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="17dp"
+            android:background="#eb543b"
+            android:text="LOGIN WITH GOOGLE+"
+            android:textColor="#fff"
+            android:textSize="13dp" />
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/username"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#f3f3f3"
+        android:ems="10"
+        android:hint="Username"
+        android:paddingLeft="5dp"
+        android:textColor="@android:color/black"
+        android:layout_above="@+id/password"
+        android:layout_marginBottom="@dimen/activity_horizontal_margin"
+        >
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/password"
+        android:inputType="textPassword"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+
+        android:background="#f3f3f3"
+        android:ems="10"
+        android:hint="Password"
+        android:paddingLeft="5dp"
+        android:textColor="@android:color/black"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_above="@id/reg"
+        android:layout_marginBottom="@dimen/activity_horizontal_margin"
+        />
+
+    <TextView
+        android:id="@+id/reg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/linearLayout1"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="24dp"
+        android:text="Register Here"
+        android:textColor="#000000"
+        android:textSize="16dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/forgot_password"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/reg"
+        android:layout_alignBottom="@+id/reg"
+        android:layout_alignParentRight="true"
+        android:text="Forgot Password?"
+        android:textColor="#000000"
+        android:textSize="16dp"
+        android:textStyle="bold" />
+
+
+
+
+    <FrameLayout
+        android:id="@+id/frame"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+
+</RelativeLayout>
+

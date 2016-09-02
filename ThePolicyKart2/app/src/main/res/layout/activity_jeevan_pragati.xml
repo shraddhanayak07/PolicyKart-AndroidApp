@@ -1,0 +1,58 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".Akshay_VI"
+    android:background="#ffffff" >
+    <ScrollView 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:fillViewport="false"
+        android:orientation="vertical"
+        android:padding="0dp" android:id="@+id/scrollView1">
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="416dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="LIC JEEVAN PRAGATI PLAN"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#b30000"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+
+       <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="20dp"
+        android:textSize="15dp"
+        android:text="LIC Jeevan Pragati Plan is non linked market traditional plan launched by LIC.LIC launched this plan on 03rd Feb,2016.The major benefit of this plan is its increasing Insurance cover by time to time.\n\nMain Feature of the plan is Low Premium with High Risk Coverage:\nMinimum Entry Age : 12 Years \nMaximum Entry Age : 45 Year \nMinimum Policy Term : 12 Years \nMaximum Policy Term : 20 Years \nMaturity Benefit : Basic Sum Assured + Bonuses + Final Additional Bonuses ( FAB ), if any. \nDeath Benefit : The Sum Assured on Death Automatically Increases every five years ... \nDuring the 1st to 5th Policy Years - 100% of the Basic Sum Assured \nDuring the 6th to 10th Policy Years - 125% of the Basic Sum Assured \nDuring the 11th to 15th Policy Years - 150% of the Basic Sum Assured \nDuring the 16th to 20th Policy Years - 200% of the Basic Sum Assured.\n\nThis Plan is a Complete Protection for your \n1) Housing Loan \n2) Credit Cards Loans \n3) Jewel Loans \n4) all other Personal Loans No need of worry , If anything uncertian happens for the Policy Holder.\nNominee are safe from all financial debts or Loans Death Accidental Benefit - 100% Extra of the Basic Sum Assured For More details call or sms."/>
+     
+        
+        <Button
+            android:id="@+id/apply_pragati"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:text="APPLY NOW" />
+        </LinearLayout></ScrollView>
+
+
+</RelativeLayout>

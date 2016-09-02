@@ -1,0 +1,290 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:2:1-191:12
+	package
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.8.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:support-v4:23.0.1] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.1] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:appcompat-v7:23.0.1] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.1] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.1] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.1] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:10:9-38
+		INJECTED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:9:9-35
+		INJECTED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:11:5-66
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:12:5-70
+	android:name
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:12:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:13:5-73
+	android:name
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:13:22-71
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:14:22-78
+application
+ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:16:5-189:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.8.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/AndroidManifest.xml:28:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.1] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.1] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/AndroidManifest.xml:26:5-46:19
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.1] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+	android:clearTaskOnLaunch
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:24:9-41
+	android:label
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:19:9-41
+	android:launchMode
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:25:9-40
+	android:allowBackup
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:20:9-35
+	android:icon
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:21:9-45
+	android:theme
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:22:9-44
+	android:name
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:18:9-37
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:26:9-107
+	android:value
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:26:66-105
+	android:name
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:26:20-65
+meta-data#com.google.android.gms.version
+ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:27:9-121
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:27:66-119
+	android:name
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:27:20-65
+activity#com.example.thepolicykart2.MainActivity
+ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:28:9-37:20
+	android:label
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:30:13-45
+	android:noHistory
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:29:13-67
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:34:27-74
+activity#com.example.thepolicykart2.Login
+ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:38:9-43:20
+	android:label
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:40:13-34
+	android:noHistory
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:39:13-60
+activity#com.example.thepolicykart2.Registration
+ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:44:9-47:20
+	android:label
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:46:13-64
+	android:name
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:45:13-67
+activity#com.example.thepolicykart2.MyAccounts
+ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:48:9-51:20
+	android:label
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:50:13-39
+	android:name
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:49:13-65
+activity#com.example.thepolicykart2.forgotpassword
+ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:52:9-55:20
+	android:label
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:54:13-44
+	android:name
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:53:13-69
+activity#com.example.thepolicykart2.changepassword
+ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:56:9-59:20
+	android:label
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:58:13-44
+	android:name
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:57:13-69
+activity#com.example.thepolicykart2.framelayout
+ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:60:9-62:20
+	android:label
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:61:13-34
+	android:name
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:60:19-46
+activity#com.example.thepolicykart2.Home
+ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:63:9-66:20
+	android:label
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:65:13-56
+	android:name
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:64:13-59
+activity#com.example.thepolicykart2.UserProfileDetails
+ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:67:9-71:20
+	android:label
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:69:13-40
+	android:name
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:68:13-73
+activity#com.example.thepolicykart2.GooglePlus
+ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:72:9-75:20
+	android:label
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:74:13-39
+	android:name
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:73:13-65
+service#com.example.thepolicykart2.MyTestService
+ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:76:9-78:39
+	android:exported
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:78:13-37
+	android:name
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:77:13-42
+fragment
+ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:79:9-82:20
+	android:label
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:81:13-41
+	android:name
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:80:13-67
+activity#com.example.thepolicykart2.Apply_online
+ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:90:9-93:20
+	android:label
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:92:13-64
+	android:name
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:91:13-67
+activity#com.example.thepolicykart2.Investemnt_plan
+ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:103:9-106:20
+	android:label
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:105:13-44
+	android:name
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:104:13-70
+activity#com.example.thepolicykart2.Moneyback_plan
+ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:107:9-110:20
+	android:label
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:109:13-44
+	android:name
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:108:13-69
+activity#com.example.thepolicykart2.Child_plan
+ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:111:9-114:20
+	android:label
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:113:13-39
+	android:name
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:112:13-65
+activity#com.example.thepolicykart2.Pension_plan
+ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:115:9-118:20
+	android:label
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:117:13-41
+	android:name
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:116:13-67
+activity#com.example.thepolicykart2.Term_plan
+ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:119:9-122:20
+	android:label
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:121:13-38
+	android:name
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:120:13-64
+activity#com.facebook.FacebookActivity
+ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:184:9-188:48
+	android:label
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:188:13-45
+	android:configChanges
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:185:13-114
+	android:theme
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:187:13-72
+	android:name
+		ADDED from /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/AndroidManifest.xml:184:19-63
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/AndroidManifest.xml:21:19-72
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/AndroidManifest.xml:29:13-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/AndroidManifest.xml:24:22-65
+provider#com.google.android.gms.measurement.AppMeasurementContentProvider
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/AndroidManifest.xml:28:7-31:37
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/AndroidManifest.xml:29:11-76
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/AndroidManifest.xml:31:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/AndroidManifest.xml:30:11-90
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/AndroidManifest.xml:33:7-39:18
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/AndroidManifest.xml:35:11-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/AndroidManifest.xml:34:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/AndroidManifest.xml:36:9-38:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/AndroidManifest.xml:37:11-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/AndroidManifest.xml:37:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/AndroidManifest.xml:41:7-44:37
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/AndroidManifest.xml:43:11-33
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/AndroidManifest.xml:44:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/AndroidManifest.xml:42:11-82

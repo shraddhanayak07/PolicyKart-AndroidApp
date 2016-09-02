@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/fragment_main.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/res/layout/fragment_main.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/forgot_password.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/res/layout/forgot_password.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/myaccounts.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/res/layout/myaccounts.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/activity_jeevan_labh.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/res/layout/activity_jeevan_labh.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_large.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/layout/messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_small.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/layout/messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/userprofile.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/res/layout/userprofile.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/activity_jeevan_nidhi.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/res/layout/activity_jeevan_nidhi.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/com_facebook_login_fragment.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/layout/com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/activity_jeevan_arogya.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/res/layout/activity_jeevan_arogya.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/activity_jeevan_lakshay.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/res/layout/activity_jeevan_lakshay.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/com_facebook_activity_layout.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/layout/com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/activity_single_endowment.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/res/layout/activity_single_endowment.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/activity_query__now.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/res/layout/activity_query__now.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/activity_anmol_jeevan.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/res/layout/activity_anmol_jeevan.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/activity_amolya_jeevan.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/res/layout/activity_amolya_jeevan.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_round.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/layout/messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_round.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/layout/messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/activity_apply_online.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/res/layout/activity_apply_online.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/songs_layout.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/res/layout/songs_layout.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/activity_plans.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/res/layout/activity_plans.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/framelayout.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/res/layout/framelayout.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/activity_new_child_money.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/res/layout/activity_new_child_money.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/googleplus.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/res/layout/googleplus.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/activity_calculator.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/res/layout/activity_calculator.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/activity_new_endowment.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/res/layout/activity_new_endowment.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_small.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/layout/messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/activity_new_money_back.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/res/layout/activity_new_money_back.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/activity_new_jeevan_anand.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/res/layout/activity_new_jeevan_anand.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/change_password.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/res/layout/change_password.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/activity_jeevan_pragati.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/res/layout/activity_jeevan_pragati.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/activity_jeevan_tarun.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/res/layout/activity_jeevan_tarun.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/activity_akshay__vi.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/res/layout/activity_akshay__vi.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/homepage.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/res/layout/homepage.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/activity_bima_bachat.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/res/layout/activity_bima_bachat.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_large.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/layout/messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/login.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/res/layout/login.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/photos_layout.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/res/layout/photos_layout.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.0/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/build/intermediates/res/merged/debug/layout/activity_registration.xml",
+        "source": "/home/shradha/AndroidStudioProjects/ThePolicyKart2/app/src/main/res/layout/activity_registration.xml"
+    }
+]

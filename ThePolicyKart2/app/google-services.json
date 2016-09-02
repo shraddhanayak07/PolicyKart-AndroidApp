@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_id": "thepolicykart2",
+    "project_number": "800278912947",
+    "name": "thepolicykart2"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800278912947:android:97d35de790305583",
+        "client_id": "android:com.example.thepolicykart2",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.example.thepolicykart2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800278912947-6n0485dkngtjso0jfohma4bhpjbp7t8g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thepolicykart2",
+            "certificate_hash": "7FF2D141C7562ACCA78CD9E3F8286096DD3288D1"
+          }
+        },
+        {
+          "client_id": "800278912947-68s1rd9hoiqh8r12n3o33l89v2fgg2bp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}

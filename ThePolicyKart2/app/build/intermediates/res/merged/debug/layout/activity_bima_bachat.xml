@@ -1,0 +1,67 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".Akshay_VI"
+    android:background="#ffffff" >
+    <ScrollView 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:fillViewport="false"
+        android:orientation="vertical"
+        android:padding="0dp" 
+        android:id="@+id/scrollView1">
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="416dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="LIC BIMA BACHAT (Single Premium) "
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#b30000"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+
+       <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="20dp"
+        android:textSize="15dp"
+        android:text="LIC New Bima Bachat Plan (Table 816) is a single premium Money Back Plan.In this plan the premium is paid only once. \n15% of the Sum Assured is paid after every 3 years and the entire Single Premium paid plus Loyalty Additions is paid at the end of the policy term. \nHowever, if the Life Insured dies within the policy tenure, the entire Sum Assured is paid irrespective of the amount of money paid as Survival Benefit. \nService Tax is applicable on the premium paid for this policy, at the rate of 3.5% of the lumpsum premium paid."/>
+       <ImageView 
+           android:id="@+id/bima"
+           android:layout_width="fill_parent"
+           android:layout_height="wrap_content"
+           
+           android:src="@drawable/bima"
+           
+           />
+      
+        <Button
+            android:id="@+id/apply_bima"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:text="APPLY NOW" />
+        
+        </LinearLayout></ScrollView>
+
+
+</RelativeLayout>

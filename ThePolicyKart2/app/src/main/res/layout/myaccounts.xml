@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/auname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Email"
+        />
+    <EditText
+        android:id="@+id/username"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/auname"
+        />
+
+    <CheckBox
+        android:id="@+id/set"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Set Reminder"
+        android:layout_below="@id/username"/>
+
+
+    <TextView
+        android:id="@+id/prem_amt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Premium Amount"
+        android:layout_below="@id/set"/>
+    <EditText
+        android:id="@+id/amt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/prem_amt" />
+    <TextView
+        android:id="@+id/accplan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Plan"
+        android:layout_below="@id/amt"
+        />
+    <EditText
+        android:id="@+id/eamt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/accplan" />
+
+</RelativeLayout>

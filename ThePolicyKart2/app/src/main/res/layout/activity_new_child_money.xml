@@ -1,0 +1,66 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".Akshay_VI"
+    android:background="#ffffff" >
+    <ScrollView 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:fillViewport="false"
+        android:orientation="vertical"
+        android:padding="0dp" android:id="@+id/scrollView1">
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="416dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="LIC NEW CHILD MONEY BACK PLAN"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#b30000"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+
+       <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="20dp"
+        android:textSize="15dp"
+        android:text="LIC New Child Money Back plan (Table 832) is specially designed to meet the Educational, marriage and other needs of growing children through Survival Benefits starting from the age of 18 till their 25th Age. This plan also has an Optional Premium Waiver benefit raider which when opted, the child need not pay any premium if the parent who had proposed this policy has expired. \n\nThis policy can be taken for any children who are below 12 years of age and the policy will get matured by their 25th age. \n\nService Tax is applicable on the premium paid for this policy, at the rate of 3.5% for the 1st year premium and 1.75% from 2nd year onwards."/>
+       <ImageView 
+           android:id="@+id/newmoney"
+           android:layout_width="fill_parent"
+           android:layout_height="wrap_content"
+           
+           android:src="@drawable/newmoney"
+           
+           />
+      
+        
+        <Button
+            android:id="@+id/apply_child"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:text="APPLY NOW" />
+        </LinearLayout></ScrollView>
+
+
+</RelativeLayout>
